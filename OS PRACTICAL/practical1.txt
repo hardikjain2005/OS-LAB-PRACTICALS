@@ -1,0 +1,14 @@
+Ls
+ls -l
+ls -la
+pwd
+cd..
+cd
+cd Documents
+touch prac1
+cat > prac2   (Filename2)
+ctrl z
+cat >> prac1
+ctrl z
+mkdir (Filename)
+ 
